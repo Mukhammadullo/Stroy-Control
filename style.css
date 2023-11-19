@@ -57,6 +57,11 @@
     align-items: center;
     list-style: none;
     color: #72787D;
+    font-size: 16px;
+}
+
+.innerCard_right_ul li:hover {
+    color: #036FC7;
 }
 
 /* innerCard_left_btn */
