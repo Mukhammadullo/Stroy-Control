@@ -22,6 +22,19 @@
     width: 20%;
     height: 70px;
     border: 2px solid blue;
+    display: flex;
+    align-items: center;
+}
+
+/* logo_innerCard_left */
+.logo_innerCard_left{
+    padding: 5px;
+}
+/* title_txt_innerCard_left */
+.title_txt_innerCard_left {
+    color: #212B31;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px;
 }
 
 /* header_innerCard_right */
