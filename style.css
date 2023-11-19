@@ -27,9 +27,10 @@
 }
 
 /* logo_innerCard_left */
-.logo_innerCard_left{
+.logo_innerCard_left {
     padding: 5px;
 }
+
 /* title_txt_innerCard_left */
 .title_txt_innerCard_left {
     color: #212B31;
@@ -38,8 +39,22 @@
 }
 
 /* header_innerCard_right */
+
 .header_innerCard_right {
     width: 65%;
     height: 70px;
     border: 2px solid rgb(9, 110, 150);
+    display: flex;
+    justify-content: space-between;
+}
+
+/* innerCard_right_ul */
+.innerCard_right_ul {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+color: #72787D;
+
 }
