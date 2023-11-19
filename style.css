@@ -46,6 +46,7 @@
     border: 2px solid rgb(9, 110, 150);
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 /* innerCard_right_ul */
@@ -55,6 +56,22 @@
     justify-content: space-between;
     align-items: center;
     list-style: none;
-color: #72787D;
+    color: #72787D;
+}
 
+/* innerCard_left_btn */
+.innerCard_left_btn {
+    width: 130px;
+    height: 35px;
+    background-color: #212B31;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.innerCard_left_btn:hover{
+    color: #212B31;
+    background-color: white;
+    border: 1px solid #212B31;
+box-shadow: 0px 0px 3px black;
 }
