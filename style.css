@@ -85,7 +85,7 @@
 /* container_inner1 */
 .container_inner1 {
     width: 80%;
-    height: 150vh;
+    height: 650vh;
     border: 1px solid red;
     margin: auto;
 }
@@ -144,7 +144,7 @@
 }
 
 
-/*  */
+/*container_inner1_card2  */
 .container_inner1_card2 {
     width: 85%;
     height: 480px;
@@ -155,4 +155,31 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+
+.container_inner1_card3 {
+    width: 85%;
+    height: 280px;
+    margin: auto;
+    border: 1px solid red;
+    display: flex;
+}
+
+.container_inner1_card3_card1 {
+    width: 33%;
+    height: 280px;
+    border: 2px solid black;
+}
+
+.container_inner1_card3_card2 {
+    width: 33%;
+    height: 280px;
+    border: 2px solid black;
+}
+
+.container_inner1_card3_card3 {
+    width: 33%;
+    height: 280px;
+    border: 2px solid black;
 }
