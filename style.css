@@ -13,4 +13,20 @@
     width: 100%;
     height: 70px;
     border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* header_innerCard_left */
+.header_innerCard_left {
+    width: 20%;
+    height: 70px;
+    border: 2px solid blue;
+}
+
+/* header_innerCard_right */
+.header_innerCard_right {
+    width: 65%;
+    height: 70px;
+    border: 2px solid rgb(9, 110, 150);
 }
