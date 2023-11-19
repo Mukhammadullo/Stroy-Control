@@ -95,7 +95,6 @@
     width: 80%;
     height: 180px;
     margin: auto;
-    border: 1px solid red;
     margin-top: 80px;
     display: flex;
     flex-wrap: wrap;
@@ -142,4 +141,18 @@
 .container_inner1_card1_btn2:hover {
     background-color: #212B31;
     color: white;
+}
+
+
+/*  */
+.container_inner1_card2 {
+    width: 85%;
+    height: 480px;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
