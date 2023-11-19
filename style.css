@@ -81,3 +81,31 @@
     border: 1px solid #212B31;
     box-shadow: 0px 0px 3px black;
 }
+
+/* container_inner1 */
+.container_inner1 {
+    width: 80%;
+    height: 150vh;
+    border: 1px solid red;
+    margin: auto;
+}
+
+/* container_inner1_card1_title_txt */
+.container_inner1_card1 {
+    width: 80%;
+    height: 180px;
+    margin: auto;
+    border: 1px solid red;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* container_inner1_card1_title_txt */
+.container_inner1_card1_title_txt {
+    font-size: 46px;
+    text-align: center;
+    color: #212B31;
+}
