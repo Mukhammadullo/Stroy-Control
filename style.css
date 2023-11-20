@@ -12,7 +12,6 @@
 .header {
     width: 100%;
     height: 70px;
-    border: 2px solid red;
     display: flex;
     justify-content: space-between;
 }
@@ -21,7 +20,6 @@
 .header_innerCard_left {
     width: 20%;
     height: 70px;
-    border: 2px solid blue;
     display: flex;
     align-items: center;
 }
@@ -43,7 +41,6 @@
 .header_innerCard_right {
     width: 65%;
     height: 70px;
-    border: 2px solid rgb(9, 110, 150);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,7 +75,6 @@
 .innerCard_left_btn:hover {
     color: #212B31;
     background-color: white;
-    border: 1px solid #212B31;
     box-shadow: 0px 0px 3px black;
 }
 
@@ -86,7 +82,6 @@
 .container_inner1 {
     width: 80%;
     height: 950vh;
-    border: 1px solid red;
     margin: auto;
 }
 
@@ -123,7 +118,6 @@
 .container_inner1_card1_btn1:hover {
     background-color: transparent;
     color: black;
-    border: 1px solid grey;
 }
 
 /* container_inner1_card1_btn2 */
@@ -132,7 +126,6 @@
     height: 45px;
     background-color: transparent;
     color: black;
-    border: 1px solid grey;
     border-radius: 5px;
     margin-right: 5px;
     font-size: 16px;
@@ -148,7 +141,6 @@
 .container_inner1_card2 {
     width: 85%;
     height: 480px;
-    border: 1px solid red;
     margin: auto;
     margin-top: 80px;
     display: flex;
@@ -162,7 +154,6 @@
     width: 85%;
     height: 280px;
     margin: auto;
-    border: 1px solid red;
     display: flex;
     margin-top: 40px;
 }
@@ -170,7 +161,6 @@
 .container_inner1_card3_card1 {
     width: 33%;
     height: 200px;
-    border: 2px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -181,7 +171,6 @@
 .container_inner1_card3_card2 {
     width: 33%;
     height: 200px;
-    border: 2px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -192,7 +181,6 @@
 .container_inner1_card3_card3 {
     width: 33%;
     height: 200px;
-    border: 2px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -215,7 +203,6 @@
 .section3 {
     width: 85%;
     height: 70vh;
-    border: 3px solid black;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -242,7 +229,6 @@
 .section4 {
     width: 85%;
     height: 80vh;
-    border: 2px solid red;
     margin: auto;
     margin-top: 20px;
 }
@@ -260,7 +246,6 @@
 /* section4_cards */
 .section4_cards {
     width: 100%;
-    border: 1px solid blue;
     display: flex;
     margin-top: 20px;
 }
@@ -270,7 +255,6 @@
 .sectio4_card_left {
     width: 50%;
     height: 45vh;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -280,7 +264,6 @@
 .sectio4_card_right {
     width: 50%;
     height: 60vh;
-    border: 1px solid rgb(36, 221, 138);
 }
 
 /* section4_card_left_title */
@@ -308,7 +291,6 @@
     width: 85%;
     margin: auto;
     height: 40vh;
-    border: 1px solid red;
 }
 
 .section5_img {
@@ -319,7 +301,6 @@
 .section6 {
     width: 85%;
     height: 35vh;
-    border: 1px solid red;
     margin: auto;
     margin-top: 15px;
 }
@@ -346,7 +327,6 @@
 .section7 {
     width: 85%;
     height: 50vh;
-    border: 1px solid red;
     margin: auto;
     margin-top: 10px;
     display: flex;
@@ -357,10 +337,8 @@
     width: 50%;
     height: 30vh;
     display: flex;
-
     flex-direction: column;
     justify-content: space-evenly;
-
 }
 
 /* section7_left_title */
@@ -383,7 +361,6 @@
 .section10 {
     width: 85%;
     height: 20vh;
-    border: 1px solid red;
     margin: auto;
     margin-top: 10px;
 }
@@ -406,7 +383,6 @@
 .section10_cards {
     width: 85%;
     height: 110vh;
-    border: 1px solid red;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -416,7 +392,6 @@
 .section10_card1 {
     width: 33%;
     height: 110vh;
-    border: 2px solid blue;
     display: flex;
     flex-direction: column;
     justify-content: space-between
@@ -425,7 +400,6 @@
 .section10_card2 {
     width: 33%;
     height: 110vh;
-    border: 2px solid green;
     display: flex;
     flex-direction: column;
     justify-content: space-between
@@ -434,7 +408,6 @@
 .section10_card3 {
     width: 33%;
     height: 110vh;
-    border: 2px solid violet;
     display: flex;
     flex-direction: column;
     justify-content: space-between
@@ -444,7 +417,6 @@
 .section10_card1_innerCard1 {
     width: 100%;
     height: 35vh;
-    border: 1px solid red;
     display: flex;
     align-items: flex-start;
 }
@@ -452,7 +424,6 @@
 .section10_card1_innerCard2 {
     width: 100%;
     height: 35vh;
-    border: 1px solid rgb(16, 129, 53);
     display: flex;
     align-items: flex-start;
 }
@@ -460,7 +431,6 @@
 .section10_card1_innerCard3 {
     width: 100%;
     height: 35vh;
-    border: 1px solid rgb(32, 76, 156);
     display: flex;
     align-items: flex-start;
 }
@@ -470,7 +440,6 @@
 .section10_card2_innerCard1 {
     width: 100%;
     height: 35vh;
-    border: 1px solid red;
     display: flex;
     align-items: flex-start;
 }
@@ -478,7 +447,6 @@
 .section10_card2_innerCard2 {
     width: 100%;
     height: 35vh;
-    border: 1px solid rgb(16, 129, 53);
     display: flex;
     align-items: flex-start;
 }
@@ -486,7 +454,6 @@
 .section10_card2_innerCard3 {
     width: 100%;
     height: 35vh;
-    border: 1px solid rgb(32, 76, 156);
     display: flex;
     align-items: flex-start;
 }
@@ -497,19 +464,22 @@
 .section10_card3_innerCard1 {
     width: 100%;
     height: 35vh;
-    border: 1px solid red;
+    display: flex;
+    align-items: flex-start;
 }
 
 .section10_card3_innerCard2 {
     width: 100%;
     height: 35vh;
-    border: 1px solid rgb(16, 129, 53);
+    display: flex;
+    align-items: flex-start;
 }
 
 .section10_card3_innerCard3 {
     width: 100%;
     height: 35vh;
-    border: 1px solid rgb(32, 76, 156);
+    display: flex;
+    align-items: flex-start;
 }
 
 
@@ -553,7 +523,6 @@
     width: 85%;
     margin: auto;
     height: 160px;
-    border: 1px solid red;
     margin-top: 20px;
 }
 
@@ -578,7 +547,6 @@
 .section12 {
     width: 85%;
     height: 50vh;
-    border: 1px solid red;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -589,7 +557,6 @@
 .section12_card1 {
     width: 33%;
     height: 50vh;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -605,7 +572,6 @@
 .section12_card2 {
     width: 33%;
     height: 50vh;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -615,7 +581,6 @@
 .section12_card3 {
     width: 33%;
     height: 50vh;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
