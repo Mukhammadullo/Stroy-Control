@@ -210,3 +210,30 @@
     color: #72787D;
     font-size: 18px;
 }
+
+/* section3 */
+.section3 {
+    width: 85%;
+    height: 70vh;
+    border: 3px solid black;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* section3_title */
+.section3_title {
+    color: #212B31;
+    font-family: serif;
+}
+
+/* section3_txt */
+.section3_txt {
+    width: 85%;
+    color: #72787D;
+    text-align: center;
+    font-weight: 10px;
+    font-size: 18px;
+}
