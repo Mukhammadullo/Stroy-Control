@@ -85,7 +85,7 @@
 /* container_inner1 */
 .container_inner1 {
     width: 80%;
-    height: 650vh;
+    height: 950vh;
     border: 1px solid red;
     margin: auto;
 }
@@ -400,4 +400,120 @@
     text-align: center;
     font-size: 26px;
     color: #72787D;
+}
+
+/* section10_cards */
+.section10_cards {
+    width: 85%;
+    height: 110vh;
+    border: 1px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* section10_card1 */
+.section10_card1 {
+    width: 33%;
+    height: 110vh;
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.section10_card2 {
+    width: 33%;
+    height: 110vh;
+    border: 2px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.section10_card3 {
+    width: 33%;
+    height: 110vh;
+    border: 2px solid violet;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+/* section10_card1_innerCard1 */
+.section10_card1_innerCard1 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid red;
+    display: flex;
+    align-items: flex-start;
+}
+
+.section10_card1_innerCard2 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid rgb(16, 129, 53);
+    display: flex;
+    align-items: flex-start;
+}
+
+.section10_card1_innerCard3 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid rgb(32, 76, 156);
+}
+
+/* section10_card2_innerCard1 */
+
+.section10_card2_innerCard1 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid red;
+}
+
+.section10_card2_innerCard2 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid rgb(16, 129, 53);
+}
+
+.section10_card2_innerCard3 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid rgb(32, 76, 156);
+}
+
+
+/* section10_card3_innerCard1 */
+
+.section10_card3_innerCard1 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid red;
+}
+
+.section10_card3_innerCard2 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid rgb(16, 129, 53);
+}
+
+.section10_card3_innerCard3 {
+    width: 100%;
+    height: 35vh;
+    border: 1px solid rgb(32, 76, 156);
+}
+
+
+/* section10_card1_innerCard1_innercard_title */
+.section10_card1_innerCard1_innercard_title {
+    color: #212B31;
+    font-size: 26px;
+    margin: 10px;
+}
+
+/* section10_card1_innerCard1_innercard_txt */
+.section10_card1_innerCard1_innercard_txt {
+    color: #72787D;
+    margin: 10px;
 }
