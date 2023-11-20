@@ -644,5 +644,11 @@
     width: 90%;
     height: 130vh;
     border: 1px solid red;
+    display: flex;
+}
 
+.section14_container_left {
+    width: 50%;
+    height: 130vh;
+    border: 1px solid red;
 }
