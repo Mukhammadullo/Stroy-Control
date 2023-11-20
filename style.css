@@ -570,5 +570,35 @@
     margin: auto;
     color: #72787D;
     text-align: center;
-font-size: 20px;
+    font-size: 20px;
+}
+
+
+/* section12 */
+.section12 {
+    width: 85%;
+    height: 50vh;
+    border: 1px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* section12_card1 */
+.section12_card1 {
+    width: 33%;
+    height: 50vh;
+    border: 1px solid black;
+}
+
+.section12_card2 {
+    width: 33%;
+    height: 50vh;
+    border: 1px solid black;
+}
+
+.section12_card3 {
+    width: 33%;
+    height: 50vh;
+    border: 1px solid black;
 }
