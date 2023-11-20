@@ -704,3 +704,39 @@
     color: #212B31;
 }
 
+/* section15 */
+.section15 {
+    width: 85%;
+    height: 80vh;
+    border: 1px solid red;
+    margin: auto;
+    display: flex;
+}
+
+.section15_left_title {
+    font-size: 26px;
+    color: #212B31;
+    margin: 20px;
+}
+
+.section15_left {
+    width: 50%;
+    height: 80vh;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+/* section15_left_txt */
+.section15_left_txt {
+    color: #72787D;
+    width: 50%;
+    margin: 20px;
+}
+
+.img15 {
+    width: 70%;
+    height: 50vh;
+}
