@@ -533,9 +533,42 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
 }
 
 /* section_last_txt1 */
 .section_last_txt1 {
     background-color: yellow;
+}
+
+/* section_last_txt2 */
+.section_last_txt2 {
+    color: #72787D;
+}
+
+
+
+/* section11 */
+.section11 {
+    width: 85%;
+    margin: auto;
+    height: 160px;
+    border: 1px solid red;
+    margin-top: 20px;
+}
+
+/* section11 */
+.section11_title {
+    text-align: center;
+    font-size: 26px;
+    margin: 10px;
+}
+
+/* section11_title */
+.section11_txt {
+    width: 80%;
+    margin: auto;
+    color: #72787D;
+    text-align: center;
+font-size: 20px;
 }
