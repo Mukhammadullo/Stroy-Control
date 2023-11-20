@@ -635,3 +635,27 @@
     line-height: 23px;
 
 }
+
+/* section13 */
+.section13 {
+    width: 85%;
+    height: 20vh;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #F6F8F9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* section13_title */
+.section13_title {
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+/* section13_btn */
+.section13_btn {
+    width: 150px;
+    height: 40px;
+}
