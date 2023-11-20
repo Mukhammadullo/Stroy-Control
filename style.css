@@ -525,3 +525,17 @@
     color: #72787D;
     margin: 10px;
 }
+
+/* section10_last */
+.section10_last {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* section_last_txt1 */
+.section_last_txt1 {
+    background-color: yellow;
+}
