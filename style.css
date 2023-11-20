@@ -708,7 +708,6 @@
 .section15 {
     width: 85%;
     height: 80vh;
-    border: 1px solid red;
     margin: auto;
     display: flex;
 }
@@ -722,7 +721,6 @@
 .section15_left {
     width: 50%;
     height: 80vh;
-    border: 1px solid red;
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -746,7 +744,6 @@
 .section16 {
     width: 85%;
     height: 100vh;
-    border: 1px solid red;
     margin: auto;
 }
 
@@ -776,13 +773,11 @@
 .section16_card_left {
     width: 40%;
     height: 60vh;
-    border: 1px solid red;
 }
 
 .section16_card_right {
     width: 40%;
     height: 60vh;
-    border: 1px solid red;
 }
 
 /* section16_left_card1 */
@@ -891,6 +886,71 @@
 .section19 {
     width: 85%;
     height: 40vh;
-    border: 1px solid red;
     margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* section19_title */
+.section19_title {
+    display: flex;
+    align-items: center;
+}
+
+.section19_card1 p {
+    margin: 10px;
+    color: #72787D;
+}
+
+
+.section19_card1 {
+    width: 20%;
+}
+
+.section19_card2 {
+    width: 20%;
+}
+
+.section19_card3 {
+    width: 20%;
+
+}
+
+.section19_card4 {
+    width: 20%;
+}
+
+
+/* s19P */
+.s19P {
+    margin: 20px;
+    font-size: 20px;
+    color: #212B31;
+}
+
+/* p2 */
+.p2 {
+    color: #72787D;
+    margin: 10px;
+}
+
+/* footer */
+.footer {
+    width: 85%;
+    height: 15vh;
+    border-top: 1px solid grey;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* footer */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+font-size: 7px;
+color: grey;
 }
