@@ -378,3 +378,26 @@
 .section7_right {
     width: 50%;
 }
+
+/* section10 */
+.section10 {
+    width: 85%;
+    height: 20vh;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 10px;
+}
+
+/* section10_title */
+.section10_title {
+    text-align: center;
+    font-size: 36px;
+    margin: 10px;
+}
+
+/* setion10_txt */
+.setion10_txt {
+    text-align: center;
+    font-size: 26px;
+    color: #72787D;
+}
