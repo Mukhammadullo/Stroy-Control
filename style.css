@@ -471,6 +471,8 @@
     width: 100%;
     height: 35vh;
     border: 1px solid red;
+    display: flex;
+    align-items: flex-start;
 }
 
 .section10_card2_innerCard2 {
