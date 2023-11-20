@@ -164,22 +164,49 @@
     margin: auto;
     border: 1px solid red;
     display: flex;
+    margin-top: 40px;
 }
 
 .container_inner1_card3_card1 {
     width: 33%;
-    height: 280px;
+    height: 200px;
     border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
 }
 
 .container_inner1_card3_card2 {
     width: 33%;
-    height: 280px;
+    height: 200px;
     border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
 }
 
 .container_inner1_card3_card3 {
     width: 33%;
-    height: 280px;
+    height: 200px;
     border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+/* title_cards */
+.title_cards {
+    color: #212B31;
+    font-size: 18px;
+}
+
+.inner_txt {
+    color: #72787D;
+    font-size: 18px;
 }
