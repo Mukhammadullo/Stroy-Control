@@ -237,3 +237,69 @@
     font-weight: 10px;
     font-size: 18px;
 }
+
+/* section4 */
+.section4 {
+    width: 85%;
+    height: 100vh;
+    border: 2px solid red;
+    margin: auto;
+    margin-top: 20px;
+}
+
+/* section4_title */
+.section4_title {
+    width: 85%;
+    color: #212B31;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin: auto;
+}
+
+/* section4_cards */
+.section4_cards {
+    width: 100%;
+    border: 1px solid blue;
+    display: flex;
+    margin-top: 20px;
+}
+
+
+/* sectio4_card_left */
+.sectio4_card_left {
+    width: 50%;
+    height: 45vh;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+/* sectio4_card_right */
+.sectio4_card_right {
+    width: 50%;
+    height: 60vh;
+    border: 1px solid rgb(36, 221, 138);
+}
+
+/* section4_card_left_title */
+.section4_card_left_title {
+    color: #212B31;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+
+/* section4_card_left_txt */
+.section4_card_left_txt {
+    color: #72787D;
+    font-size: 18px;
+}
+
+/* section4_card_left_txt_last */
+.section4_card_left_txt_last {
+    width: 38%;
+    background-color: yellow;
+}
