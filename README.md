@@ -1,1 +1,1 @@
-"# -_figma" 
+# _Empty Figma_
